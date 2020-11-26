@@ -1,0 +1,12 @@
+/Users/verasnt/Documents/Games/spaceInvaders/spaceInvaders/target/rls/debug/deps/cpal-b11b7167e15043aa.rmeta: /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/lib.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/host/mod.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/host/coreaudio/mod.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/host/coreaudio/enumerate.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/host/null/mod.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/platform/mod.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/samples_formats.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/traits.rs
+
+/Users/verasnt/Documents/Games/spaceInvaders/spaceInvaders/target/rls/debug/deps/cpal-b11b7167e15043aa.d: /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/lib.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/host/mod.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/host/coreaudio/mod.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/host/coreaudio/enumerate.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/host/null/mod.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/platform/mod.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/samples_formats.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/traits.rs
+
+/Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/lib.rs:
+/Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/host/mod.rs:
+/Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/host/coreaudio/mod.rs:
+/Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/host/coreaudio/enumerate.rs:
+/Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/host/null/mod.rs:
+/Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/platform/mod.rs:
+/Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/samples_formats.rs:
+/Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.10.0/src/traits.rs:

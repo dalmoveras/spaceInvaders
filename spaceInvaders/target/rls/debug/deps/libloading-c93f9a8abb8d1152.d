@@ -1,0 +1,11 @@
+/Users/verasnt/Documents/Games/spaceInvaders/spaceInvaders/target/rls/debug/deps/libloading-c93f9a8abb8d1152.rmeta: /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/lib.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/os/mod.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/changelog.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/util.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/os/unix/mod.rs
+
+/Users/verasnt/Documents/Games/spaceInvaders/spaceInvaders/target/rls/debug/deps/liblibloading-c93f9a8abb8d1152.rlib: /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/lib.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/os/mod.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/changelog.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/util.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/os/unix/mod.rs
+
+/Users/verasnt/Documents/Games/spaceInvaders/spaceInvaders/target/rls/debug/deps/libloading-c93f9a8abb8d1152.d: /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/lib.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/os/mod.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/changelog.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/util.rs /Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/os/unix/mod.rs
+
+/Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/lib.rs:
+/Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/os/mod.rs:
+/Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/changelog.rs:
+/Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/util.rs:
+/Users/verasnt/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.5.2/src/os/unix/mod.rs:
