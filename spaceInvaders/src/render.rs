@@ -1,9 +1,10 @@
-use std::io::Stdout;
-use crate::frame::Frame;
-use crossterm::QueueableCommand;
-use crossterm::style::{SetBackgroundColor, Color};
-use crossterm::terminal::{Clear, ClearType};
 use crossterm::cursor::MoveTo;
+use crossterm::QueueableCommand;
+use crossterm::style::{Color, SetBackgroundColor};
+use crossterm::terminal::{Clear, ClearType};
+use std::io::Stdout;
+
+use crate::frame::Frame;
 
 pub fn render(stdout: &mut Stdout, last_frame: &Frame, curr_frame: &Frame, force: bool){
     if force {
@@ -16,7 +17,7 @@ pub fn render(stdout: &mut Stdout, last_frame: &Frame, curr_frame: &Frame, force
         for(y,s) in col.iter().enumerate(){
             if *s != last_frame[x][y] || force {
                 stdout.queue(MoveTo(x as u16, y as u16)).unwrap();
-                print("{}",*s);
+                print!("{}",*s);
             }
         }
     }

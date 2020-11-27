@@ -35,10 +35,16 @@ fn main()-> Result<(), Box<dyn Error>>{
     });
 
     //Game loop
+    let mut player = Player::new();
     'gameloop: loop {
+        //Per-frame init
+        let mut curr_frame = new_frame();
+
         while event::poll(Duration::default())?{
             if let Event::Key(key_event) = event::read()?{
                 match key_event.code {
+                    KeyCode::Left => player.move_left,
+                    KeyCode::Right => player.move_right,
                     KeyCode::Esc | KeyCode::Char('q') =>{
                         audio.play("lose");
                         break 'gameloop;
@@ -47,9 +53,15 @@ fn main()-> Result<(), Box<dyn Error>>{
                 }
             }
         }
+        //Draw & Render
+        player.draw(&mut curr_frame);
+        let _ = render_tx.send(curr_frame);
+        thread::sleep(Duration::from_millis(1));
     }
 
     //Clean up
+    drop(render_tx);
+    render_handle.join().unwrap();
     audio.wait();
     Ok(());
 
